@@ -1,4 +1,4 @@
-# GoNetworkProfiler  
+# NetworkX
 
 GoNetworkProfiler is a lightweight, real-time network monitoring tool written in Go. It uses packet sniffing and protocol parsing to provide insights into network activity. The tool allows users to list available network interfaces and monitor live traffic on a specified interface.
 
